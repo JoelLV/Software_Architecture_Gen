@@ -29,7 +29,7 @@ Sequence: 'Authorized users log in to the supply chain management system using s
 
 **Software Architecture Pattern:** Microservices
 
-**Actual Output**
+**Actual Output:**
 
 **Software Architecture Pattern:** 1. Client-Server 2. Microservices 3. Event Driven
 
